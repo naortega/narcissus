@@ -6,6 +6,8 @@ git@code.ortegas.org:nortega/basickernel.git;git@github.com:naortega/basickernel
 git@code.ortegas.org:nortega/castletour.git;git@github.com:naortega/castletour.git
 # colonel
 git@code.ortegas.org:nortega/colonel.git;git@github.com:naortega/colonel.git
+# editvorbis
+git@code.ortegas.org:nortega/editvorbis.git;git@github.com:naortega/editvorbis.git
 # narcissus
 git@code.ortegas.org:nortega/narcissus.git;git@github.com:naortega/narcissus.git
 # pacundo
