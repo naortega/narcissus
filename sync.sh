@@ -15,14 +15,15 @@ do
 
 	if [ -d "$NAME" ]
 	then
-		rm -r $NAME
+		cd $NAME
+		git remote update
+	else
+		git clone --mirror $ORIG
+		cd $NAME
 	fi
 
-	git clone --mirror $ORIG
-	cd $NAME
 	git push --mirror $DEST
 	cd ..
-	rm -r $NAME
 
 	echo "Done."
 done <./repo-list
