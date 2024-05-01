@@ -19,5 +19,5 @@ do
 	cd ..
 	rm -r $NAME
 
-	"Done."
+	echo "Done."
 done <./repo-list
