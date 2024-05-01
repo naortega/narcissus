@@ -2,6 +2,11 @@
 
 while read line
 do
+	if [[ -z "$line" || "$line" == "#"* ]]
+	then
+		continue
+	fi
+
 	ORIG=$(echo $line | cut -d ';' -f1)
 	DEST=$(echo $line | cut -d ';' -f2)
 	NAME=${ORIG##*/}
