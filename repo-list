@@ -10,6 +10,8 @@ git@code.ortegas.org:nortega/colonel.git;git@github.com:naortega/colonel.git
 git@code.ortegas.org:nortega/editvorbis.git;git@github.com:naortega/editvorbis.git
 # indivisible-legacy
 git@code.ortegas.org:nortega/indivisible-legacy.git;git@github.com:naortega/indivisible-legacy.git
+# indivisible-rs
+git@code.ortegas.org:nortega/indivisible-rs.git;git@github.com:naortega/indivisible-rs.git
 # narcissus
 git@code.ortegas.org:nortega/narcissus.git;git@github.com:naortega/narcissus.git
 # pacundo
