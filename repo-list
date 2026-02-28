@@ -24,3 +24,5 @@ git@code.ortegas.org:nortega/pacundo.git;git@github.com:naortega/pacundo.git
 git@code.ortegas.org:nortega/saus.git;git@github.com:naortega/saus.git
 # my-scripts
 git@code.ortegas.org:nortega/my-scripts.git;git@github.com:naortega/my-scripts.git
+# vaccalc
+git@code.ortegas.org:nortega/vaccalc.git;git@github.com:naortega/vaccalc.git
