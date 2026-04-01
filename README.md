@@ -1,6 +1,7 @@
 # Narcissus
 
-A quick script for mirroring my repositories to GitHub.
+A script to mirror repositories from [my personal git
+server](https://code.ortegas.org/nortega/) to Github.
 
 ## License & Copyright
 
