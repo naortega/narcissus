@@ -5,4 +5,4 @@ server](https://code.ortegas.org/nortega/) to Github.
 
 ## License & Copyright
 
-Since this is a meaningless little script, I'm using [the Unlicense](/LICENSE).
+Since this is a meaningless little script, I'm using [MIT0 license](/LICENSE).
