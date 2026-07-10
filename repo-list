@@ -32,3 +32,5 @@ git@code.ortegas.org:nortega/spaceshipsim.git;git@github.com:naortega/SpaceShipS
 git@code.ortegas.org:nortega/my-scripts.git;git@github.com:naortega/my-scripts.git
 # vaccalc
 git@code.ortegas.org:nortega/vaccalc.git;git@github.com:naortega/vaccalc.git
+# vim-licenser
+git@code.ortegas.org:nortega/vim-licenser.git;git@github.com:naortega/vim-licenser.git
